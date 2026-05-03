@@ -1,0 +1,9 @@
+# Pong Game!
+2 player pong game made for the esp32(ESP-WROOM-32), using an OLED screen as a display(SSD1306)
+with 2 potentiometers as input for the players.
+
+## Current Wiring
+Pot 1: GPIO13
+Pot 2: GPIO34
+OLED SCK: GPIO22
+OLED SDA: GPIO21
